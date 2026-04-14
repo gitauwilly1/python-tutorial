@@ -1,0 +1,36 @@
+- Variables
+- Virtual Environments
+- Data types
+    - str
+    - Int and float
+    - list
+    - tuple
+    - dict
+    - set
+- Conditional statements
+    - if
+    - elif
+    - else
+    - and, or, ot
+- Loops
+    - for
+    - while
+- String File handling
+    - Read and write from/to files
+- Regex - regular expressions
+- Web services
+    - xml
+    - json
+    - requests
+- APIs
+    - Consume APIs
+- Web scraping
+    - BS4
+    - Selenium
+- OOP
+- Databases
+    - SQL
+        - SQLite
+        - Postgres
+    - NoSQL
+        - MongoDb    
